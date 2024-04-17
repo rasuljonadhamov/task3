@@ -75,7 +75,7 @@ function main() {
     console.log(
       "Error: Please provide an odd number of at least 3 non-repeating moves as command line arguments."
     );
-    console.log("Example: node rock_paper_scissors.js rock paper scissors");
+    console.log("Example: node crypto.js rock paper scissors");
     return;
   }
 
