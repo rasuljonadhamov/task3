@@ -110,7 +110,7 @@ function main() {
       parseInt(userInput) > moves.length
     ) {
       console.log(
-        "Invalid input. Please enter a number corresponding to the move or '?' for help."
+        "Invalid input. Please enter a number coresponding to the move or '?' for help."
       );
       main();
     } else {
